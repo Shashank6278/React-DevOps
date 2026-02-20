@@ -1,3 +1,9 @@
+A React-based frontend application demonstrating CI/CD integration with Jenkins and containerization using Docker and Kubernetes. Built with Create React App, featuring automated testing and production-ready build pipelines.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
